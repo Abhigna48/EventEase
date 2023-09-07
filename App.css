@@ -1,0 +1,25 @@
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 10px;
+}
+.adduser{
+  min-height: 100vh;
+}
+.rootlayout{
+  background-image: url('./images/event.jpg');
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  font-style: oblique;
+  background-size: cover;
+}
+.outlet{
+  min-height: 80vh;
+}
+
+
+nav{
+ 
+  font-size: large;
+  background-color: rgb(188, 182, 151);
+}
