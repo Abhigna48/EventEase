@@ -27,11 +27,11 @@ interface is available on http://localhost:4803
 * Admin can create edit delete events
 * Login status is automatically changed to logout in navbar using the context Provider
 # User interface
-Home page
+* Home page
 <img width="960" alt="Screenshot 2023-09-08 015237" src="https://github.com/Abhigna48/EventEase/assets/106460463/0eb8ed15-c6b3-4a01-8318-15f1b08a9fb6">
-Login Page
+* Login Page
 <img width="960" alt="Screenshot 2023-09-08 015530" src="https://github.com/Abhigna48/EventEase/assets/106460463/ea24ecaf-fdd2-4299-af3d-aaf768912fde">
-Admin Dashboard
+* Admin Dashboard
 <img width="960" alt="Screenshot 2023-09-08 075640" src="https://github.com/Abhigna48/EventEase/assets/106460463/e90b8961-df7c-4546-8d0c-c90f60e3f78d">
 User Profile
 <img width="960" alt="Screenshot 2023-09-08 015611" src="https://github.com/Abhigna48/EventEase/assets/106460463/ddd22ef7-2842-4497-9d2d-b0796dcec2d9">
