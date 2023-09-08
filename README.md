@@ -32,10 +32,12 @@ Home page
 Login Page
 <img width="942" alt="Screenshot 2023-09-08 015530" src="https://github.com/Abhigna48/EventEase/assets/106460463/ea24ecaf-fdd2-4299-af3d-aaf768912fde">
 Admin Dashboard
-<img width="942" alt="Screenshot 2023-09-08 015551" src="https://github.com/Abhigna48/EventEase/assets/106460463/e20acd96-df35-4ace-b7de-745266c3ab22">
+<img width="949" alt="Screenshot 2023-09-08 075640" src="https://github.com/Abhigna48/EventEase/assets/106460463/e90b8961-df7c-4546-8d0c-c90f60e3f78d">
 User Profile
 <img width="939" alt="Screenshot 2023-09-08 015611" src="https://github.com/Abhigna48/EventEase/assets/106460463/ddd22ef7-2842-4497-9d2d-b0796dcec2d9">
+Add Event
+<img width="947" alt="Screenshot 2023-09-08 075707" src="https://github.com/Abhigna48/EventEase/assets/106460463/f628acbb-cc35-4f25-9852-7565b0d51961">
 Edit event
-<img width="960" alt="Screenshot 2023-09-08 015751" src="https://github.com/Abhigna48/EventEase/assets/106460463/e4b47ae4-6cb8-416f-8383-a421237200ae">
+<img width="960" alt="Screenshot 2023-09-08 075725" src="https://github.com/Abhigna48/EventEase/assets/106460463/7508e634-ff50-438f-9be5-5a4a3833589c">
 After deleting an event
-<img width="948" alt="Screenshot 2023-09-08 015805" src="https://github.com/Abhigna48/EventEase/assets/106460463/4b61e3b6-70a2-489f-8926-ea9eb8ae5d16">
+<img width="945" alt="Screenshot 2023-09-08 075738" src="https://github.com/Abhigna48/EventEase/assets/106460463/facd8eb0-79f2-414f-a7ff-daee21d15edf">
