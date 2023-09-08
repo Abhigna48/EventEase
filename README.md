@@ -33,11 +33,11 @@ interface is available on http://localhost:4803
 <img width="960" alt="Screenshot 2023-09-08 015530" src="https://github.com/Abhigna48/EventEase/assets/106460463/ea24ecaf-fdd2-4299-af3d-aaf768912fde">
 * Admin Dashboard
 <img width="960" alt="Screenshot 2023-09-08 075640" src="https://github.com/Abhigna48/EventEase/assets/106460463/e90b8961-df7c-4546-8d0c-c90f60e3f78d">
-User Profile
+* User Profile
 <img width="960" alt="Screenshot 2023-09-08 015611" src="https://github.com/Abhigna48/EventEase/assets/106460463/ddd22ef7-2842-4497-9d2d-b0796dcec2d9">
-Add Event
+* Add Event
 <img width="960" alt="Screenshot 2023-09-08 075707" src="https://github.com/Abhigna48/EventEase/assets/106460463/f628acbb-cc35-4f25-9852-7565b0d51961">
-Edit event
+* Edit event
 <img width="960" alt="Screenshot 2023-09-08 075725" src="https://github.com/Abhigna48/EventEase/assets/106460463/7508e634-ff50-438f-9be5-5a4a3833589c">
-After deleting an event
+* After deleting an event
 <img width="960" alt="Screenshot 2023-09-08 075738" src="https://github.com/Abhigna48/EventEase/assets/106460463/facd8eb0-79f2-414f-a7ff-daee21d15edf">
