@@ -8,6 +8,7 @@ import Home from './components/home';
 import Register from './components/UserRegister';
 import Profile from './components/Profile';
 import Dashboard from './components/Dashboard';
+
 function App() {
   const router = createBrowserRouter([
     {
@@ -27,6 +28,10 @@ function App() {
           path:'/login',
           element:<Login/>
         },
+        {
+          path:'/addevent',
+          element:<AddEvent/>
+        } ,
         {
           path:'/profile',
           element:<Profile/>
