@@ -28,16 +28,16 @@ interface is available on http://localhost:4803
 * Login status is automatically changed to logout in navbar using the context Provider
 # User interface
 Home page
-<img width="960" alt="Screenshot 2023-09-08 015237" src="https://github.com/Abhigna48/EventEase/assets/106460463/0eb8ed15-c6b3-4a01-8318-15f1b08a9fb6">
+<img width="940" alt="Screenshot 2023-09-08 015237" src="https://github.com/Abhigna48/EventEase/assets/106460463/0eb8ed15-c6b3-4a01-8318-15f1b08a9fb6">
 Login Page
-<img width="942" alt="Screenshot 2023-09-08 015530" src="https://github.com/Abhigna48/EventEase/assets/106460463/ea24ecaf-fdd2-4299-af3d-aaf768912fde">
+<img width="940" alt="Screenshot 2023-09-08 015530" src="https://github.com/Abhigna48/EventEase/assets/106460463/ea24ecaf-fdd2-4299-af3d-aaf768912fde">
 Admin Dashboard
-<img width="949" alt="Screenshot 2023-09-08 075640" src="https://github.com/Abhigna48/EventEase/assets/106460463/e90b8961-df7c-4546-8d0c-c90f60e3f78d">
+<img width="940" alt="Screenshot 2023-09-08 075640" src="https://github.com/Abhigna48/EventEase/assets/106460463/e90b8961-df7c-4546-8d0c-c90f60e3f78d">
 User Profile
-<img width="939" alt="Screenshot 2023-09-08 015611" src="https://github.com/Abhigna48/EventEase/assets/106460463/ddd22ef7-2842-4497-9d2d-b0796dcec2d9">
+<img width="940" alt="Screenshot 2023-09-08 015611" src="https://github.com/Abhigna48/EventEase/assets/106460463/ddd22ef7-2842-4497-9d2d-b0796dcec2d9">
 Add Event
-<img width="947" alt="Screenshot 2023-09-08 075707" src="https://github.com/Abhigna48/EventEase/assets/106460463/f628acbb-cc35-4f25-9852-7565b0d51961">
+<img width="940" alt="Screenshot 2023-09-08 075707" src="https://github.com/Abhigna48/EventEase/assets/106460463/f628acbb-cc35-4f25-9852-7565b0d51961">
 Edit event
-<img width="960" alt="Screenshot 2023-09-08 075725" src="https://github.com/Abhigna48/EventEase/assets/106460463/7508e634-ff50-438f-9be5-5a4a3833589c">
+<img width="940" alt="Screenshot 2023-09-08 075725" src="https://github.com/Abhigna48/EventEase/assets/106460463/7508e634-ff50-438f-9be5-5a4a3833589c">
 After deleting an event
-<img width="945" alt="Screenshot 2023-09-08 075738" src="https://github.com/Abhigna48/EventEase/assets/106460463/facd8eb0-79f2-414f-a7ff-daee21d15edf">
+<img width="940" alt="Screenshot 2023-09-08 075738" src="https://github.com/Abhigna48/EventEase/assets/106460463/facd8eb0-79f2-414f-a7ff-daee21d15edf">
