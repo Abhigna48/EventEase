@@ -3,6 +3,7 @@ import axios from 'axios'
 import {useForm} from 'react-hook-form'
 import {Modal,Button, ModalHeader, ModalTitle, ModalBody, ModalFooter} from 'react-bootstrap'
 import { useNavigate } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 function Dashboard() {
   let navigate=useNavigate();
   let {register,handleSubmit,formState:{errors},setValue,getValues} = useForm()
@@ -74,6 +75,9 @@ function Dashboard() {
   return (
     <div className='mt-3'>
       {err.length!==0 && <p className='text-danger display-2'>{err}</p>}
+     <div className='text-center'>
+      <Link to ='/addevent'><button className='btn btn-primary mx-auto'>Add Event</button></Link>
+      </div>
       <div className='text-center row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4'>
         {
           users.map(obj=><div key={obj.id}>
